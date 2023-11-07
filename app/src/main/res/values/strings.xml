@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWalmartLogin</string>
+    <string name="sign_in">Sign in to your account</string>
+</resources>
